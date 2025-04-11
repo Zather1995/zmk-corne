@@ -82,7 +82,7 @@
 
         function_layer {
             bindings = <
-&trans  &kp F12  &kp F7  &kp F8  &kp F9  &none              &none   &kp LS(PAGE_DOWN)  &none             &kp LS(PAGE_UP)  &none       &none
+&trans  &kp F12  &kp F7  &kp F8  &kp F9  &none              &none   &kp LS(PAGE_DOWN)  &none             &kp LS(PAGE_UP)  &none       &kp LA(LC(F20))
 &trans  &kp F11  &kp F4  &kp F5  &kp F6  &kp PRINTSCREEN    &none   &kp C_PREVIOUS     &kp C_PLAY_PAUSE  &kp C_NEXT       &none       &none
 &trans  &kp F10  &kp F1  &kp F2  &kp F3  &kp PAUSE_BREAK    &none   &kp C_VOL_DN       &none             &kp C_VOLUME_UP  &bt BT_CLR  &none
                          &trans  &trans  &trans             &trans  &trans             &trans
